@@ -1,0 +1,20 @@
+{
+    "name": "sitec/stream",
+    "description": "SDK para PHP de la plataforma de video de SiTEC",
+    "type": "project",
+    "authors": [
+        {
+            "name": "SiTEC",
+            "email": "contacto@sistemasespecializados.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Mpsoft\\Stream\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "7.0"
+    }
+}

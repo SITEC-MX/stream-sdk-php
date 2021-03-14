@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A0786B88-2ADB-4C21-ABE8-AA2D79766269}") = "Stream-SDK-PHP", "Stream-SDK-PHP.phpproj", "{712E7FFE-9047-4AEE-9C04-9CFBCF2FE8C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712E7FFE-9047-4AEE-9C04-9CFBCF2FE8C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712E7FFE-9047-4AEE-9C04-9CFBCF2FE8C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3869408-B725-4DD5-8FF2-23CB80904D1F}
+	EndGlobalSection
+EndGlobal

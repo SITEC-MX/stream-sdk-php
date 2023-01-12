@@ -14,7 +14,7 @@ use \Throwable;
 class Stream
 {
     private $token = NULL;
-    private $host = "stream.svc-sitec.com";
+    private $host = "stream.sitec-mx.com";
 
     private $guzzle = NULL;
     private $openapi = NULL;
